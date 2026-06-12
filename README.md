@@ -143,7 +143,7 @@ Future Improvements
 
  Author
 
-**Rizwanul Jannah**
+Rizwanul Jannah.S
 
 Final Year Engineering Student
 
