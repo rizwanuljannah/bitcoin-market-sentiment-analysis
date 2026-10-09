@@ -46,6 +46,17 @@ Columns include:
 * Fee
 * Timestamp
 
+## Data Sources
+
+- **Bitcoin Fear & Greed Index** (`fear_greed_index.csv`): [add download link]
+- **Hyperliquid Historical Trading Data** (`historical_data.csv`, ~45 MB): [add download link]
+
+### How to run
+1. Click the "Open in Colab" badge at the top.
+2. Download both files from the links above.
+3. In Colab, open the **Files** panel (folder icon, left side) and upload both CSVs.
+4. Run all cells (Runtime → Run all).
+   
 Technologies Used
 
 * Python
