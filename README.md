@@ -113,7 +113,7 @@ Although Extreme Greed produced the highest average profit per trade, Fear perio
 
 Extreme Fear periods showed the lowest average profitability and lowest win rates, indicating challenging market conditions for traders.
 
-4. Market Sentiment Influences Trading Performance
+4. The analysis shows a noticeable pattern between market sentiment and trader outcomes
 
 The analysis demonstrates a clear relationship between market sentiment and trader outcomes, highlighting the value of sentiment indicators in market analysis.
 
@@ -141,7 +141,7 @@ Buy vs Sell Performance
 
 Conclusion
 
-This project demonstrates that Bitcoin market sentiment has a significant relationship with trader profitability and performance. Traders generally performed better during Greed and Extreme Greed periods, while Extreme Fear conditions were associated with lower profitability and success rates.
+This project demonstrates that Bitcoin market sentiment shows a noticeable relationship with trader profitability and performance. Traders generally performed better during Greed and Extreme Greed periods, while Extreme Fear conditions were associated with lower profitability and success rates.
 
 The findings suggest that incorporating sentiment indicators into trading analysis may help traders better understand market conditions and improve decision-making.
 
